@@ -13,17 +13,17 @@ Building businesses, exploring opportunities and developing technology-driven so
 
 ---
 
-## 👨‍💼 About Me
+##  About Me
 
 I'm an aspiring entrepreneur, founder and technology enthusiast interested in building businesses, developing innovative solutions and exploring opportunities across industries.
 
-- 🚀 Founder & Builder working on multiple ventures.
-- 💼 Interested in Entrepreneurship, Business Development and Strategy.
-- 🌐 Exploring opportunities across different business sectors.
-- 💻 Interested in Software Development, AI and Emerging Technologies.
-- 🤝 Open to Networking, Collaborations and Business Opportunities.
-- 🎓 AI & Data Science Engineering Student.
-- 📈 Focused on Long-Term Growth, Innovation and Execution.
+-  Founder & Builder working on multiple ventures.
+-  Interested in Entrepreneurship, Business Development and Strategy.
+-  Exploring opportunities across different business sectors.
+-  Interested in Software Development, AI and Emerging Technologies.
+-  Open to Networking, Collaborations and Business Opportunities.
+-  AI & Data Science Engineering Student.
+-  Focused on Long-Term Growth, Innovation and Execution.
 
 ## 🏢 Business & Ventures
 
@@ -43,7 +43,7 @@ I'm interested in building and developing ventures across technology, digital pl
 
 Website: https://thestreamx.com
 
-## 💡 Areas of Interest
+##  Areas of Interest
 
 - Entrepreneurship & Startups
 - Business Strategy & Development
@@ -56,13 +56,13 @@ Website: https://thestreamx.com
 - Strategic Partnerships
 - Leadership & Management
 
-## 🛠️ Technology & Tools
+##  Technology & Tools
 
 <p>
 <img src="https://skillicons.dev/icons?i=html,css,js,python,git,github,figma,vscode,firebase,react,nodejs&theme=dark"/>
 </p>
 
-## 🚀 What I'm Working Towards
+##  What I'm Working Towards
 
 - Building technology-driven businesses.
 - Developing practical digital products.
@@ -70,7 +70,7 @@ Website: https://thestreamx.com
 - Collaborating with entrepreneurs and developers.
 - Learning, experimenting and executing new ideas.
 
-## 🤝 Let's Connect
+##  Let's Connect
 
 I'm always interested in meaningful conversations, business opportunities, technology discussions and collaborations.
 
@@ -78,7 +78,7 @@ I'm always interested in meaningful conversations, business opportunities, techn
 - LinkedIn: [Add your LinkedIn profile URL]
 - Email: [Add your professional email]
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -88,7 +88,7 @@ I'm always interested in meaningful conversations, business opportunities, techn
 
 </div>
 
-## 🔥 Contribution Streak
+##  Contribution Streak
 
 <div align="center">
 
@@ -96,11 +96,11 @@ I'm always interested in meaningful conversations, business opportunities, techn
 
 </div>
 
-## 🏆 GitHub Achievements
+##  GitHub Achievements
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vinaygowda5&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=vinaygowda5&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
