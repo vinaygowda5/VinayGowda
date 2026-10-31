@@ -25,7 +25,7 @@ I'm an aspiring entrepreneur, founder and technology enthusiast interested in bu
 -  AI & Data Science Engineering Student.
 -  Focused on Long-Term Growth, Innovation and Execution.
 
-## 🏢 Business & Ventures
+## Business & Ventures
 
 I'm interested in building and developing ventures across technology, digital platforms and business services.
 
@@ -75,8 +75,8 @@ Website: https://thestreamx.com
 I'm always interested in meaningful conversations, business opportunities, technology discussions and collaborations.
 
 - GitHub: https://github.com/vinaygowda5
-- LinkedIn: [Add your LinkedIn profile URL]
-- Email: [Add your professional email]
+- LinkedIn: https://linkedin.com/in/vinay-gowda-5582962a4
+- Email: business@thestreamx.com
 
 ##  GitHub Statistics
 
